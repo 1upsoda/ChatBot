@@ -10,7 +10,8 @@ public class PonyChat
 	}
 	private void ponyGUI()
 	{
-		String answerGUI 
+		String answerGUI = JOptionPane.showInputDialog("What is your favorite pony?");
+		
 		
 		
 		
