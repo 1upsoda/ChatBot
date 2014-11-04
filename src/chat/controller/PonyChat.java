@@ -1,5 +1,7 @@
 package chat.controller;
 
+import javax.swing.JOptionPane;
+
 public class PonyChat
 {
 
